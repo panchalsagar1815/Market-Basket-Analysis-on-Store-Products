@@ -1,6 +1,6 @@
 # Market-Basket-Analysis-on-Store-Products
 
-Project Title: Market Basket Analysis on Store Products
+
 
 Project Description:
 The "Market Basket Analysis on Store Products" project is a comprehensive examination of customer purchasing behavior within departmental stores. The dataset comprises a list of all items available in these stores, along with the quantity purchased by customers. The project utilizes statistical methods, along with visualization tools such as Seaborn and Matplotlib, to uncover meaningful patterns and associations among store products.
